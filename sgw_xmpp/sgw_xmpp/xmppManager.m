@@ -2,8 +2,8 @@
 //  xmppManager.m
 //  sgw_xmpp
 //
-//  Created by lanou3g on 16/2/25.
-//  Copyright © 2016年 sgw. All rights reserved.
+//  Created by shang on 16/2/25.
+//  Copyright © 2016年 shang. All rights reserved.
 //
 
 #import "xmppManager.h"

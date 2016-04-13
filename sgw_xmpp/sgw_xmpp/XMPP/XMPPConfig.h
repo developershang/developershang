@@ -3,7 +3,7 @@
 //  XMPPSample
 //
 //  Created by lewis on 14-3-27.
-//  Copyright (c) 2014年 com.lanou3g. All rights reserved.
+//  Copyright (c) 2014年 com.shang. All rights reserved.
 //
 
 #ifndef XMPPSample_XMPPConfig_h
